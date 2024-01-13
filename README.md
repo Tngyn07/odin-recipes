@@ -1,1 +1,1 @@
-This is my very first html project ever! I utilize a bit of the foundations I learn such as setting up the boilerplate, creating the <p> and <h> tags and utilizing links and images.
+My very first html project! I utilize a bit of the foundations I learn such as setting up the boilerplate, creating opening and closing tags and utilizing links and images. The website is a prototype and purely for learning the foundations of coding. 
